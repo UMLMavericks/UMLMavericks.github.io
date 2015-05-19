@@ -1,0 +1,21 @@
+{
+  "name": "UMLMavericks.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/UMLMavericks/UMLMavericks.github.io",
+  "authors": [
+    "Sanjay krishna anbalagan <sanjay1909@gmail.com>"
+  ],
+  "description": "Cricket team home page",
+  "main": "index",
+  "keywords": [
+    "UML",
+    "UMLMavericks",
+    "Cricket",
+    "Lowell"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "fontawesome": "~4.3.0"
+  }
+}
